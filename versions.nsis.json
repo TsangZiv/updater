@@ -3,9 +3,9 @@
 		"version":"0.2.1",
 		"changelog":"",
 		"source":"app1-0.2.1",
-		"installers":{
+		"installers":[{
 			"arch":"x64",
 			"path":"app1-0.2.1.exe"
-		}
+		}]
 	}]
 }
