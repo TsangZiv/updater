@@ -1,0 +1,11 @@
+{
+	"versions":[{
+		"version":"0.2.1",
+		"changelog":"",
+		"source":"app1-0.2.1",
+		"installers":[{
+				"arch":"x64",
+				"path":"app1-0.2.1.exe"
+		}]
+	}]
+}
